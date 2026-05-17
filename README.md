@@ -6,7 +6,7 @@ Self-taught backend/full-stack developer with experience building production sys
 
 Most of my professional development work was done before modern AI-assisted development tools became common. The majority of the systems in this portfolio were designed and implemented independently, including architecture, backend logic, infrastructure, integrations, and operational workflows.
 
-After moving to Israel and serving in the military, I resumed development while learning and integrating modern AI-assisted workflows into newer projects.
+After moving to Israel, I stepped away from full-time software development for approximately two and a half years. More recently, I returned to development while learning and integrating modern AI-assisted workflows into newer projects.
 
 ---
 
